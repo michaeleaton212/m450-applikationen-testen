@@ -1,0 +1,10 @@
+# .NET-Build- und Testausgaben
+[Bb]in/
+[Oo]bj/
+[Tt]est[Rr]esults/
+*.trx
+
+# Lokale IDE-Dateien
+.vs/
+*.user
+*.suo
