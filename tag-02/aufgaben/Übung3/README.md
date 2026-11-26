@@ -4,11 +4,19 @@
 
 Die mitgelieferte Banksoftware lokal starten, mögliche Blackbox-Testfälle aus
 Benutzersicht identifizieren, geeignete Methoden für Whitebox-Tests bestimmen
-und Verbesserungen am Code vorschlagen. Die vollständige Aufgabenstellung steht
-in [UEBUNGEN.md](./UEBUNGEN.md), Abschnitt «Übung 3».
+und Verbesserungen am Code vorschlagen.
+
+Diese Abgabe behandelt ausschliesslich Übung 3. Ihre Aufgabenstellung lautet:
+
+- Die bereitgestellte Java-Banksoftware als lokales Projekt einrichten und starten.
+- Sich mit dem Code vertraut machen und die Anwendung testen.
+- Mögliche Blackbox-Testfälle identifizieren, die als Benutzer ausgeführt werden können.
+- Methoden im Code bestimmen, die sich für Whitebox-Testfälle eignen.
+- Allgemeine Codeverbesserungen und passende Best Practices nennen.
+- Die Testfälle tabellarisch in einem Markdown-Dokument im Repository abgeben.
 
 Das Java-Maven-Projekt wurde aus dem bereitgestellten `bank-software-mvn.zip`
-übernommen. Die Herkunft ist in der Aufgabenstellung verlinkt. Autor des
+übernommen. Vorlage: [Maven-Projekt der TBZ](https://gitlab.com/ch-tbz-it/Stud/m450/m450/-/blob/main/Unterlagen/teststrategie/bank-software-mvn.zip). Autor des
 Beispielprogramms gemäss Quellcode: Thomas Trüb. Die vorhandene Banklogik wird
 untersucht und bewusst nicht vollständig neu geschrieben: Die Aufgabe verlangt
 eine Testanalyse, nicht die Entwicklung einer produktiven Banksoftware.
