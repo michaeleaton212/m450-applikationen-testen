@@ -29,3 +29,10 @@ Der 19.11.2026 ist unterrichtsfrei. Für diesen Tag gibt es Hausaufgaben.
 
 - `aufgaben` enthält die Aufgabenstellungen und Übungen aus dem Unterricht.
 - `hausaufgaben` enthält die Aufgaben für zu Hause und meine Bearbeitungen.
+
+## Tag 2
+
+### Aufgaben
+
+- [Übung 1 – Rabattlogik und Softwaretests](./tag-02/aufgaben/%C3%9Cbung%201/): Rabattstufen in C# implementieren und mit Äquivalenzklassenanalyse, Grenzwertanalyse und xUnit testen.
+- [Übung 2 – Blackbox, Whitebox und Graybox](./tag-02/aufgaben/%C3%9Cbung%202/README.md): Zehn Testsituationen zuordnen und die Entscheidungen sowie Annahmen begründen.
